@@ -1,7 +1,3 @@
-/* Main File for CPU Context Switch Program - Project 0 (CS531)
- * Do Not Modify this File 
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <errno.h>
